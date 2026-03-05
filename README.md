@@ -6,7 +6,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g2Min&show_icons=true" height="170" alt="Jimin's GitHub stats" />
   <a href="https://solved.ac/g2min/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=g2min" height="170" alt="Solved.ac Profile" />
   </a>
