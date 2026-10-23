@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying at Korea univ - Korea university PRML lab.
-- 🌱 I’m currently learning on vision language models.
-
+- I'm currently a student in the [PRML Lab](http://pr.korea.ac.kr/) at Korea University.
+- My research focuses on vision-language models and multimodal agents.
 
 <!--  
 **g2Min/g2Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
